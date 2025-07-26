@@ -4,17 +4,43 @@ https://github.com/user-attachments/assets/284a77ca-1e07-4c55-bd82-178733eb4034
 
 A github repository curating semantic zoom interaction pattern with AIs enabling multi-level text summaries.
 
-* [[https://alexanderobenauer.com/labnotes/038/][Alexander Obenaeur Semantic Zoom Labnote]]
+** [[https://alexanderobenauer.com/labnotes/038/][Alexander Obenaeur / Semantic Zoom Labnote]]
 
 https://github.com/user-attachments/assets/9e358fc4-e99e-4627-8101-25461db5e058
 
 Alexander Obenauer has spent a lot of time thinking about how semantic zoom might fit as an operating system primitive.
 
-* [[https://x.com/OrionReedOne/status/1790263523857019227][Orion Reed]]
+** [[https://x.com/OrionReedOne/status/1790263523857019227][Orion Reed]]
 
 https://github.com/user-attachments/assets/4451a5e8-07d6-4fe8-b8b7-b0d368ee5efd
 
 Clever example where the content shrinks to graph nodes on zooming out.
+
+** [[https://wattenberger.com/thoughts/fish-eye][Amelia Wattenberger / Fish Eye]]
+Amelia seems to have kicked off a flurry of activity with her fish eye experiments.
+https://github.com/user-attachments/assets/0e0201ab-1165-4f03-8823-e558faa3ebc3
+
+Some of the works inspired from her posts:
+
+* Historical precursors
+
+** StretchText: https://en.wikipedia.org/wiki/StretchText
+
+** TelescopicText: https://www.telescopictext.org/
+
+** Expounder: https://skorokithakis.github.io/expounder/
+
+** ZUI
+*** Pad++: https://www.youtube.com/watch?v=BlIRYTuSv0Q
+*** EagleMode: https://sourceforge.net/projects/eaglemode/
+
+* Interesting adjacent experiments
+
+** Twine: https://twinery.org/
+Non-linear interactive fiction
+
+** Adjacent articles I haven’t read but looks interesting
+https://aeon.co/essays/when-ai-summaries-replace-hyperlinks-thought-itself-is-flattened
 
 
 
