@@ -4,4 +4,19 @@ https://github.com/user-attachments/assets/284a77ca-1e07-4c55-bd82-178733eb4034
 
 A github repository curating semantic zoom interaction pattern with AIs enabling multi-level text summaries.
 
+* Alexander Obenauer
+
+https://github.com/user-attachments/assets/9e358fc4-e99e-4627-8101-25461db5e058
+
+[[https://alexanderobenauer.com/labnotes/038/][Semantic Zoom Labnote]]
+Alexander Obenauer has spent a lot of time thinking about how semantic zoom might fit as an operating system primitive.
+
+* Orion Reed
+
+https://github.com/user-attachments/assets/4451a5e8-07d6-4fe8-b8b7-b0d368ee5efd
+
+Clever example where the content shrinks to graph nodes on zooming out.
+
+
+
 
