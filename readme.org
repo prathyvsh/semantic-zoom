@@ -1,0 +1,3 @@
+* Semantic Zoom
+
+A github repository curating semantic zoom interaction pattern with AIs enabling multi-level text summaries.
