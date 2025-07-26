@@ -33,6 +33,18 @@ https://github.com/user-attachments/assets/bd2ac114-a6b2-4949-99d3-64c9f16673fb
 
 https://github.com/user-attachments/assets/b83202fd-668f-48fa-889c-5b1882a419a4
 
+** [[https://x.com/tldraw/status/1805187091438895190][Tldraw visual summaries]]
+https://github.com/user-attachments/assets/f72021a6-e3b9-499c-a65b-75126cac82f3
+
+Summarizing images by visual themes.
+
+** [[https://x.com/neilsonks/status/1744805355182608680][Neilson’s Experiments]]
+Fascinating example of elaborating/summarizing text by pulling apart / pinching.
+
+https://github.com/user-attachments/assets/85772336-b16f-4261-89ad-f55902d81ba3
+
+https://github.com/user-attachments/assets/19ecb155-30e2-4f14-bfa7-b77c9e952b44
+
 * Historical precursors
 
 ** [[https://en.wikipedia.org/wiki/StretchText][StretchText]]
