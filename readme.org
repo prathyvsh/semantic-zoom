@@ -18,21 +18,24 @@ Clever example where the content shrinks to graph nodes on zooming out.
 
 ** [[https://wattenberger.com/thoughts/fish-eye][Amelia Wattenberger / Fish Eye]]
 Amelia seems to have kicked off a flurry of activity with her fish eye experiments.
+
 https://github.com/user-attachments/assets/0e0201ab-1165-4f03-8823-e558faa3ebc3
 
 Some of the works inspired from her posts:
 
 * Historical precursors
 
-** StretchText: https://en.wikipedia.org/wiki/StretchText
+** [[https://en.wikipedia.org/wiki/StretchText][StretchText]]
+One of the first examples by Ted Nelson on progressively revealing content
 
-** TelescopicText: https://www.telescopictext.org/
+** [[https://www.telescopictext.org/][TelescopicText]]
 
-** Expounder: https://skorokithakis.github.io/expounder/
+** [[https://skorokithakis.github.io/expounder/][Expounder]]
 
 ** ZUI
-*** Pad++: https://www.youtube.com/watch?v=BlIRYTuSv0Q
-*** EagleMode: https://sourceforge.net/projects/eaglemode/
+
+*** [[https://www.youtube.com/watch?v=BlIRYTuSv0Q][Pad++]]
+*** [[https://sourceforge.net/projects/eaglemode/][EagleMode]]
 
 * Interesting adjacent experiments
 
