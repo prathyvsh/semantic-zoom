@@ -63,10 +63,12 @@ https://github.com/user-attachments/assets/343aeab1-da9c-4aef-bf83-aedc938c492d
 
 *** [[https://x.com/HaijunXia/status/1646917869115166720][Graphologue]]
 Made by [[https://x.com/peilingjiang][Peiling Jiang]], [[https://x.com/juderayan_][Jude Rayan]], and [[https://x.com/stevendow][Steven Dow]]
+
 https://github.com/user-attachments/assets/10447d52-1ea6-4299-9458-4af3b6af6535
 
 ** [[https://x.com/max__drake/status/1643594487971676160][Make Drake]]
 Interesting example with progressive unfolding of content.
+
 https://github.com/user-attachments/assets/596e3a82-3fbf-4eb7-b317-6d1461cd15ad
 
 I mulled on an idea of extending this to blending prose here: https://x.com/prathyvsh/status/1949349549535035523
