@@ -51,6 +51,21 @@ https://github.com/user-attachments/assets/bd350a31-f286-4514-9abd-1e3ccc8ba389
 
 https://github.com/user-attachments/assets/c7afe754-b13c-4f4f-8234-f1e2741c4645
 
+** USCD HCI Lab works
+
+USCD HCI labs is producing some very interesting work in HCI ∩ AI: https://hci.ucsd.edu/ai
+
+
+*** [[https://x.com/HaijunXia/status/1646919380704559104][Sensescape]]
+Made by [[https://x.com/HaijunXia][Haijun Xia]], [[https://x.com/sangho_suh][Sangho Suh]], [[https://x.com/bryandhmin][Bryan Min]], and [[https://x.com/SrishtiPalani][Srishti Palani]]
+
+https://github.com/user-attachments/assets/343aeab1-da9c-4aef-bf83-aedc938c492d
+
+*** [[https://x.com/HaijunXia/status/1646917869115166720][Graphologue]]
+Made by [[https://x.com/peilingjiang][Peiling Jiang]], [[https://x.com/juderayan_][Jude Rayan]], and [[https://x.com/stevendow][Steven Dow]]
+https://github.com/user-attachments/assets/10447d52-1ea6-4299-9458-4af3b6af6535
+
+
 * Historical precursors
 
 ** [[https://en.wikipedia.org/wiki/StretchText][StretchText]]
