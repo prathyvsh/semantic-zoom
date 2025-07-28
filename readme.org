@@ -2,7 +2,7 @@
 
 https://github.com/user-attachments/assets/284a77ca-1e07-4c55-bd82-178733eb4034
 
-A github repository curating semantic zoom interaction pattern. Semantic zoom is an interaction technique for making the information density in a UI artefact coarser/finer. The representation / functionality afforded at a particular level of detail aligns with the user intent. They have started to gain prominence with AIs enabling multi-level text summaries.
+A github repository curating semantic zoom interaction pattern. Semantic zoom is an interaction technique for making the information density in a UI artefact coarser/finer. The representation / functionality afforded at a particular level of detail aligns with the user intent. They have started to gain prominence with AIs enabling multi-level text summaries. Tweet thread on it [[https://x.com/prathyvsh/status/1949135449634513368][here]]
 
 ** [[https://alexanderobenauer.com/labnotes/038/][Alexander Obenaeur / Semantic Zoom Labnote]]
 
