@@ -103,7 +103,7 @@ https://github.com/user-attachments/assets/b07801d0-5cb6-4283-a63d-18895f8cedd1
 
 Dion Systems is a now defunct text editor which had some exciting ideas around how to make an IDE. One of it was this neat semantic zoom at different levels of details. It allowed you to move through different LODs as you zoom in/out of your codebase.
 
-[[./videos/dion-systems.gif]]
+[[./videos/dion-systems-lod.gif]]
 
 ** [[https://x.com/rsms/status/1191153537721352192][Figma Minimap]]
 
@@ -117,11 +117,11 @@ Flamegraphs are an OG visualization technique that chunks data to give it a legi
 
 This image can be seen to be:
 
-[[https://github.com/user-attachments/assets/ae3d68b4-2fcf-40bd-8bc0-d2492ea41be1]]
+[[./videos/flamegraph-1.png]]
 
 visualized as this flamegraph which is interactive and semantically zoomable:
 
-[[https://github.com/user-attachments/assets/8a7c5e7a-212b-4a58-8b8f-77f5a6f34ad6]]
+[[./videos/flamegraph-2.jpg]]
 
 * Ideas
 ** Essay blender
