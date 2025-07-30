@@ -66,12 +66,24 @@ Made by [[https://x.com/peilingjiang][Peiling Jiang]], [[https://x.com/juderayan
 
 https://github.com/user-attachments/assets/10447d52-1ea6-4299-9458-4af3b6af6535
 
-** [[https://x.com/max__drake/status/1643594487971676160][Make Drake]]
+** [[https://x.com/max__drake/status/1643594487971676160][Max Drake]]
 Interesting example with progressive unfolding of content.
 
 https://github.com/user-attachments/assets/596e3a82-3fbf-4eb7-b317-6d1461cd15ad
 
 I mulled on an idea of extending this to blending prose here: https://x.com/prathyvsh/status/1949349549535035523
+
+* Ideas
+** Max Drake’s demo makes me think that there’s space here to do an interaction where you seed it by blending some concepts and then elaborate/summarize it with the generated prose like Neilson’s work here:
+[[https://x.com/neilsonks/status/1760747813703668220][Neilson’s work]]
+
+https://github.com/user-attachments/assets/96e48bbb-bd6c-4791-82e6-dc982a1dc8a1
+
+The generated prose could be blended further again. Almost like zooming in/out of the left and right in this Venn diagram (imagine we have seeded prose on the left and right): [[https://x.com/Ryan__Stephen/status/1869518899877916729][Ryan Stephen’s Venn Diagram visualizer]] and the intersection generating a new blended prose.
+
+https://github.com/user-attachments/assets/893a85fb-a541-47ef-9e07-b27cfde2a69e
+
+** Max
 
 * Historical precursors
 
