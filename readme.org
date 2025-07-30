@@ -4,6 +4,10 @@ https://github.com/user-attachments/assets/284a77ca-1e07-4c55-bd82-178733eb4034
 
 A github repository curating semantic zoom interaction pattern. Semantic zoom is an interaction technique for making the information density in a UI artefact coarser/finer. The representation / functionality afforded at a particular level of detail aligns with the user intent. They have started to gain prominence with AIs enabling multi-level text summaries. Tweet thread on it [[https://x.com/prathyvsh/status/1949135449634513368][here]]
 
+Some terms worth understanding before proceeding is [[https://en.wikipedia.org/wiki/Level_of_detail_(computer_graphics)][level of detail]] and [[https://en.wikipedia.org/wiki/Progressive_disclosure][progressive disclosure]]. Analogous ideas exist in other domains like [[][chunking]] in writing, [[https://en.wikipedia.org/wiki/Mipmap][mipmapping]] in game graphics, and [[https://www.youtube.com/watch?v=rXnZ-HFoOz8&list=PLF0b3ThojznTzAA7bfLWh4RKzRrwNF4L0][Coarse-graining / Renormalization]] in physics.
+
+As I noted in a tweet thread, this idea was latent in representing icons in many different resolutions, some of which required [[https://x.com/prathyvsh/status/1948424120783245514][appropriate representations at particular levels of detail]] to be legible for the user.
+
 ** [[https://alexanderobenauer.com/labnotes/038/][Alexander Obenaeur / Semantic Zoom Labnote]]
 
 https://github.com/user-attachments/assets/9e358fc4-e99e-4627-8101-25461db5e058
@@ -73,6 +77,21 @@ https://github.com/user-attachments/assets/596e3a82-3fbf-4eb7-b317-6d1461cd15ad
 
 I mulled on an idea of extending this to blending prose here: https://x.com/prathyvsh/status/1949349549535035523
 
+** [[https://gashlin.net/tests/ecola/babel/#%28%27defun%27fib%28%27n%29%2C%28%27if%28%27lt%27n%272%29%2C%28%27n%29%2C%28%27%2B%28%27fib%2C%28%27-%27n%271%29%29%28%27fib%2C%28%27-%27n%272%29%29%29%29%29][Semantic Zoom Tree Editor]]
+The idea of semantic zoom extends to tree editors as well.
+https://github.com/user-attachments/assets/b07801d0-5cb6-4283-a63d-18895f8cedd1
+
+** [[https://web.archive.org/web/20220601055758/https://dion.systems/gallery.html][Dion Systems]]
+
+Dion Systems is a now defunct text editor which had some exciting ideas around how to make an IDE. One of it was this neat semantic zoom at different levels of details. It allowed you to move through different LODs as you zoom in/out of your codebase.
+
+![Image](https://github.com/user-attachments/assets/b61b4f21-083c-4d42-bf81-4d9c88084b67)
+
+** [[https://x.com/rsms/status/1191153537721352192][Figma Minimap]]
+The idea of coarse graining at the appropriate level of detail can be seen in other software, like this minimap representation by Rasmus Andersson.
+
+https://github.com/user-attachments/assets/86c8af3f-0f4b-4489-bb6c-cf82041e4e77
+
 * Ideas
 ** Max Drake’s demo makes me think that there’s space here to do an interaction where you seed it by blending some concepts and then elaborate/summarize it with the generated prose like Neilson’s work here:
 [[https://x.com/neilsonks/status/1760747813703668220][Neilson’s work]]
@@ -82,8 +101,6 @@ https://github.com/user-attachments/assets/96e48bbb-bd6c-4791-82e6-dc982a1dc8a1
 The generated prose could be blended further again. Almost like zooming in/out of the left and right in this Venn diagram (imagine we have seeded prose on the left and right): [[https://x.com/Ryan__Stephen/status/1869518899877916729][Ryan Stephen’s Venn Diagram visualizer]] and the intersection generating a new blended prose.
 
 https://github.com/user-attachments/assets/893a85fb-a541-47ef-9e07-b27cfde2a69e
-
-** Max
 
 * Historical precursors
 
