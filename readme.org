@@ -59,13 +59,14 @@ https://github.com/user-attachments/assets/c7afe754-b13c-4f4f-8234-f1e2741c4645
 
 USCD HCI labs is producing some very interesting work in HCI ∩ AI: https://hci.ucsd.edu/ai
 
-
 *** [[https://x.com/HaijunXia/status/1646919380704559104][Sensescape]]
+
 Made by [[https://x.com/HaijunXia][Haijun Xia]], [[https://x.com/sangho_suh][Sangho Suh]], [[https://x.com/bryandhmin][Bryan Min]], and [[https://x.com/SrishtiPalani][Srishti Palani]]
 
 https://github.com/user-attachments/assets/343aeab1-da9c-4aef-bf83-aedc938c492d
 
 *** [[https://x.com/HaijunXia/status/1646917869115166720][Graphologue]]
+
 Made by [[https://x.com/peilingjiang][Peiling Jiang]], [[https://x.com/juderayan_][Jude Rayan]], and [[https://x.com/stevendow][Steven Dow]]
 
 https://github.com/user-attachments/assets/10447d52-1ea6-4299-9458-4af3b6af6535
@@ -78,6 +79,7 @@ https://github.com/user-attachments/assets/596e3a82-3fbf-4eb7-b317-6d1461cd15ad
 I mulled on an idea of extending this to blending prose here: https://x.com/prathyvsh/status/1949349549535035523
 
 ** [[https://gashlin.net/tests/ecola/babel/#%28%27defun%27fib%28%27n%29%2C%28%27if%28%27lt%27n%272%29%2C%28%27n%29%2C%28%27%2B%28%27fib%2C%28%27-%27n%271%29%29%28%27fib%2C%28%27-%27n%272%29%29%29%29%29][Semantic Zoom Tree Editor]]
+
 The idea of semantic zoom extends to tree editors as well.
 https://github.com/user-attachments/assets/b07801d0-5cb6-4283-a63d-18895f8cedd1
 
@@ -85,15 +87,27 @@ https://github.com/user-attachments/assets/b07801d0-5cb6-4283-a63d-18895f8cedd1
 
 Dion Systems is a now defunct text editor which had some exciting ideas around how to make an IDE. One of it was this neat semantic zoom at different levels of details. It allowed you to move through different LODs as you zoom in/out of your codebase.
 
-![Image](https://github.com/user-attachments/assets/b61b4f21-083c-4d42-bf81-4d9c88084b67)
+[[https://github.com/user-attachments/assets/b61b4f21-083c-4d42-bf81-4d9c88084b67]]
 
 ** [[https://x.com/rsms/status/1191153537721352192][Figma Minimap]]
 The idea of coarse graining at the appropriate level of detail can be seen in other software, like this minimap representation by Rasmus Andersson.
 
 https://github.com/user-attachments/assets/86c8af3f-0f4b-4489-bb6c-cf82041e4e77
 
+** Flamegraphs
+
+Flamegraphs are an OG visualization technique that chunks data to give it a legible shape. Data on the left gets visualized into a somewhat navigable one on the right via semantic zoom. Interactive by Brendan Gregg [[https://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html][here]].
+
+This image can be seen to be:
+<img width="1800" height="1116" alt="Image" src="https://github.com/user-attachments/assets/ae3d68b4-2fcf-40bd-8bc0-d2492ea41be1" />
+
+visualized as this flamegraph which is interactive and semantically zoomable:
+<img width="1800" height="1116" alt="Image" src="https://github.com/user-attachments/assets/8a7c5e7a-212b-4a58-8b8f-77f5a6f34ad6" />
+
 * Ideas
-** Max Drake’s demo makes me think that there’s space here to do an interaction where you seed it by blending some concepts and then elaborate/summarize it with the generated prose like Neilson’s work here:
+** Essay blender
+
+Max Drake’s demo makes me think that there’s space here to do an interaction where you seed it by blending some concepts and then elaborate/summarize it with the generated prose like Neilson’s work here:
 [[https://x.com/neilsonks/status/1760747813703668220][Neilson’s work]]
 
 https://github.com/user-attachments/assets/96e48bbb-bd6c-4791-82e6-dc982a1dc8a1
