@@ -76,7 +76,22 @@ Interesting example with progressive unfolding of content.
 
 https://github.com/user-attachments/assets/596e3a82-3fbf-4eb7-b317-6d1461cd15ad
 
-I mulled on an idea of extending this to blending prose here: https://x.com/prathyvsh/status/1949349549535035523
+** [[https://x.com/hturan/status/1776225700954939608][Harley Turan’s example]]
+
+Nice mobile interaction by Turan. Other works by Turan are bangers too. Don't miss to [[https://hturan.com/][check them out]]!
+
+https://github.com/user-attachments/assets/6114c17c-f531-454a-b1bc-b06c12832b3f
+
+** [[https://x.com/bnj/status/1760001240011026657][Ben South / Ronith interaction]]
+Smooth interaction prototype by Ben South and Ronith.
+
+https://github.com/user-attachments/assets/cb4cb3dc-5613-4d5b-aaf3-8ddeeaacd2dc
+
+** [[https://x.com/joshm/status/1760698068943724634][Arc browser interaction]]
+
+One of the most smoothly executed idea of a semantic zoom here with a neat functional touch.
+
+https://github.com/user-attachments/assets/cc2a1421-7736-42ef-93a9-7159067aa47e
 
 ** [[https://gashlin.net/tests/ecola/babel/#%28%27defun%27fib%28%27n%29%2C%28%27if%28%27lt%27n%272%29%2C%28%27n%29%2C%28%27%2B%28%27fib%2C%28%27-%27n%271%29%29%28%27fib%2C%28%27-%27n%272%29%29%29%29%29][Semantic Zoom Tree Editor]]
 
